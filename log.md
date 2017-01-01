@@ -8,3 +8,10 @@
 
 **Link to work:** [My Twitter Account](http://twitter.com/ncrepalde)
 
+### Day 1: January 1, 2017
+
+**Today's Progress:** I started to code the Network Diffusion Model that I am problably going to use in my PhD dissertation.
+
+**Thoughts:** Although it was really hard beacuse I have to work with a new python library (nxsim), it was also great. I felt like I did some progress and this is a very precious feeling in my opinion. I have to study *nxsim* and also *simpy* a lot more.
+
+**Link to work:** http://github.com/neylsoncrepalde/diffusion_models. The code I'm talking about is difusao_qualidade.py.
