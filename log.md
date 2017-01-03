@@ -24,7 +24,7 @@
 
 ### Day 3, January 3, 2017
 
-**Today's Progress:** Working in network diffusion model in Python. Today, I achieved to separate the simulations in two halfs and stated differente parameters for each half. Comparisons and interesting stuff begin to appear. I also started a new .py doc to do the social network analysis. I stated also every other probability to 50% to try to isolate the *Critics_rating* effect. Now, I think I must play a little with the parameters. Maybe tomorrow.
+**Today's Progress:** Working in network diffusion model in Python. Today, I achieved to separate the simulations in two halfs and stated different parameters for each half. Comparisons and interesting stuff begin to appear. I also started a new .py doc to do the social network analysis. I stated also every other probability to 50% to try to isolate the *Critics_rating* effect. Now, I think I must play a little with the parameters. Maybe tomorrow.
 
 **Thoughts:** Awesome! Very exciting. This is something I've been thinking of for days and it's finally working. Yeaaaah!!!
 
