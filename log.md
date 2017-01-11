@@ -29,3 +29,11 @@
 **Thoughts:** Awesome! Very exciting. This is something I've been thinking of for days and it's finally working. Yeaaaah!!!
 
 **Link to work:** http://github.com/neylsoncrepalde/diffusion_models. The code I'm talking about is difusao_qualidade.py. The SNA are in difusao_qualidade_analises.py.
+
+### Day 4, January 10, 2017
+
+**Today's Progress:** After some time off because of a simple surgery, I'm finally back. Today I studied some Django. I have started to study this framework before but today I found out that I have forgotten almost everythin. It was nice to remember somethings, though. I got until the admin page of a static blog. Tomorrow, I'll try to finish it. It's supposed to be fast, right (at least after you know it...).
+
+**Thoughts:** Really nice work. I'm pretty sure that Django can be very useful although I'm not a developer (I'm a sociologist). It seems like a nice way to prepare a blog or to show some research results or build a portfolio... It seems more WEB than R's shiny which I'm a little bit more acquainted.
+
+**Link to work:** Not deployed yet.
