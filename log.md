@@ -37,3 +37,11 @@
 **Thoughts:** Really nice work. I'm pretty sure that Django can be very useful although I'm not a developer (I'm a sociologist). It seems like a nice way to prepare a blog or to show some research results or build a portfolio... It seems more WEB than R's shiny which I'm a little bit more acquainted.
 
 **Link to work:** Not deployed yet.
+
+### Day 5, January 11, 2017
+
+**Today's Progress:** I worked on the text analysis and statistical analysis for a paper on politics with my friend Maria Alice Silveira. I managed to finish the statistical analysis of Facebook data and did the expolatory part on Twitter data. Sentiment analysis is on the way. I also did some serious research on translation methods in python.
+
+**Thoughts:** Productive, productive, productive.
+
+**Link to work:** http://github.com/neylsoncrepalde/PEC55
