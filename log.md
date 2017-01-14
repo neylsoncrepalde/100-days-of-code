@@ -45,3 +45,11 @@
 **Thoughts:** Productive, productive, productive.
 
 **Link to work:** http://github.com/neylsoncrepalde/PEC55
+
+### Day 6, January 13, 2017
+
+**Today's Progress:** Worked on sentiment analysis on twitter data using Lexicons and machine learning algorithms in R.
+
+**Thoughts:** Reaaaaaly difficult. I've studied machine learning techniques but never applied them actually. Lot of effort but great results. Random Forest algorithm was the best, followed by Support Vector Machines.
+
+**Link to work:** blog post on the procedures coming soon.
