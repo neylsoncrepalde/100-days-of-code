@@ -53,3 +53,11 @@
 **Thoughts:** Reaaaaaly difficult. I've studied machine learning techniques but never applied them actually. Lot of effort but great results. Random Forest algorithm was the best, followed by Support Vector Machines.
 
 **Link to work:** blog post on the procedures coming soon.
+
+### Day 7, January 16, 2017
+
+**Today's Progress:** I wrote a small blog in Django. I'll try to expand it to a full website!
+
+**Thoughts:** Difficult at first. Awesome at last.
+
+**Link to work:** Not deployed yet. I'll put it on github as soon it is a little more robust.
