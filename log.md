@@ -61,3 +61,19 @@
 **Thoughts:** Difficult at first. Awesome at last.
 
 **Link to work:** Not deployed yet. I'll put it on github as soon it is a little more robust.
+
+### Day 8, January 21, 2017
+
+**Today's Progress:** Finished the GIARS Shiny App.
+
+**Thoughts:** I think it is great. I sure learned a lot doing it.
+
+**Link to work:** https://giars.shinyapps.io/shiny-redes
+
+### Day 9, January 22, 2017
+
+**Today's Progress:** Today I worked on a Jupyter Notebook tutorial on how to fit a linear regression in Python.
+
+**Thoughts:** I had to do some research on *statsmodels* library. Great learning.
+
+**Link to work:** I'm posting it soon.
