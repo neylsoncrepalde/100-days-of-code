@@ -77,3 +77,11 @@
 **Thoughts:** I had to do some research on *statsmodels* library. Great learning.
 
 **Link to work:** I'm posting it soon.
+
+### Day 10, January 23, 2017
+
+**Today's Progress:** I worked on a website using Django and Wagtail.
+
+**Thoughts:** The pages are almost finished. Great learning. Wagtail can be a little tricky, although I think it's easier than pure Django.
+
+**Link to work:** Not deployed yet.
