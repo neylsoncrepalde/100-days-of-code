@@ -85,3 +85,11 @@
 **Thoughts:** The pages are almost finished. Great learning. Wagtail can be a little tricky, although I think it's easier than pure Django.
 
 **Link to work:** Not deployed yet.
+
+### Day 11 and 12, January, 23 & 24, 2017.
+
+**Today's Progress:** I have been developing the website that I just told you about.
+
+**Thoughts:** It's almost ready. As I am beginning to work with Wagtail, I had a lot of erros that took me some time to correct.
+
+**Link to work:** Not deployed yet.
