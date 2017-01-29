@@ -93,3 +93,12 @@
 **Thoughts:** It's almost ready. As I am beginning to work with Wagtail, I had a lot of erros that took me some time to correct.
 
 **Link to work:** Not deployed yet.
+
+### Day 13, January, 28, 2017.
+
+**Today's Progress:** I finished Getsemani Choir's website. It was developed with Django and Wagtail. I uploaded it on github and I have already paid for the domain. Next week, I intend to deploy it.
+
+**Thoughts:** Mission acomplished!
+
+**Link to work:** https://github.com/neylsoncrepalde/website-coral-getsemani
+
