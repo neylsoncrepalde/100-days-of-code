@@ -86,7 +86,7 @@
 
 **Link to work:** Not deployed yet.
 
-### Day 11 and 12, January, 23 & 24, 2017.
+### Day 11 and 12, January, 24 & 25, 2017.
 
 **Today's Progress:** I have been developing the website that I just told you about.
 
