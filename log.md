@@ -102,3 +102,10 @@
 
 **Link to work:** https://github.com/neylsoncrepalde/website-coral-getsemani
 
+### Day 14, February, 1st, 2017.
+
+**Today's Progress:** Worked on some text analysis of facebook data trying to get main topics and public opinion. Sentiment analysis tomorrow.
+
+**Thoughts:** Great. I just found out that read_tsv() function from readr package got errors to read the data. The sane happened to the base function read.delim or read.table. fread() function from data.table did the job.
+
+**Link to work:** https://github.com/neylsoncrepalde/RASTREIA
