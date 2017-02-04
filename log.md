@@ -109,3 +109,11 @@
 **Thoughts:** Great. I just found out that read_tsv() function from readr package got errors to read the data. The sane happened to the base function read.delim or read.table. fread() function from data.table did the job.
 
 **Link to work:** https://github.com/neylsoncrepalde/RASTREIA
+
+### Day 15, February, 3, 2017
+
+**Today's Progress:** I worked with huge Brazilian Census dataset in R. This was done using a beautiful package by lucasmation.
+
+**Thoughts:** Working with big data can be tough!
+
+**Link to work:** https://github.com/lucasmation/microdadosBrasil
