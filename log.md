@@ -117,3 +117,11 @@
 **Thoughts:** Working with big data can be tough!
 
 **Link to work:** https://github.com/lucasmation/microdadosBrasil
+
+### Day 16, February, 6, 2017
+
+**Today's Progress:** Today I worked on Face Recognition with Python and OpenCV.
+
+**Thoughts:** Awesome. It took me a couple of hours to figure out that installing Python2 instead of trying to work inside Python3 was the best ideia (and the one that saved me some time).
+
+**Link to work:** Not uploaded yet.
