@@ -125,3 +125,11 @@
 **Thoughts:** Awesome. It took me a couple of hours to figure out that installing Python2 instead of trying to work inside Python3 was the best ideia (and the one that saved me some time).
 
 **Link to work:** Not uploaded yet.
+
+### Day 17, February, 8, 2017
+
+**Today's Progress:** Worked on some data visualization with matplotlib (Python).
+
+**Thoughts:** Trying to master several dataviz types.
+
+**Link to work:** It'll become a blog post soon.
