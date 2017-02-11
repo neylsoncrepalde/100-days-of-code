@@ -138,6 +138,6 @@
 
 **Today's Progress:** Deployed the wagtail/django website!
 
-**Thoughts:** Happy!!!
+**Thoughts:** Happy!!! It still needs a lot of work on mobile viz. Any help?
 
 **Link to work:** www.coralgetsemani.com.br
