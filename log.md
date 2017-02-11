@@ -133,3 +133,11 @@
 **Thoughts:** Trying to master several dataviz types.
 
 **Link to work:** It'll become a blog post soon.
+
+### Day 18, February, 10, 2017
+
+**Today's Progress:** Deployed the wagtail/django website!
+
+**Thoughts:** Happy!!!
+
+**Link to work:** www.coralgetsemani.com.br
