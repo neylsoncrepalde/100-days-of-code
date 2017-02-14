@@ -141,3 +141,11 @@
 **Thoughts:** Happy!!! It still needs a lot of work on mobile viz. Any help?
 
 **Link to work:** www.coralgetsemani.com.br
+
+### Day 19, February, 14, 2017
+
+**Today's Progress:** Today I worked on some map plotting with R. Tried Leaflet, map+maptools and ggmap.
+
+** Thoughts:** I almost got an interactive map with leaflet. Maybe tomorrow.
+
+**Link to work:** not deployed.
