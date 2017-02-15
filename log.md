@@ -149,3 +149,11 @@
 ** Thoughts:** I almost got an interactive map with leaflet. Maybe tomorrow.
 
 **Link to work:** not deployed.
+
+### Day 20, February, 15, 2017
+
+**Today's Progress:** Did some descriptive analysis of several datasets with tidyr, dplyr and datatable in R.
+
+**Thoughts:** Doing descriptive analysis of data appears to be simple but when you have to do it "fast and furious", with hard deadlines, it makes you learn a lot about data handling, which is awesome.
+
+**Link to work:** https://github.com/neylsoncrepalde/RASTREIA
