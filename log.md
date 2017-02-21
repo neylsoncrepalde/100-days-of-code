@@ -157,3 +157,11 @@
 **Thoughts:** Doing descriptive analysis of data appears to be simple but when you have to do it "fast and furious", with hard deadlines, it makes you learn a lot about data handling, which is awesome.
 
 **Link to work:** https://github.com/neylsoncrepalde/RASTREIA
+
+### Day 21, February, 21, 2017
+
+**Today's Progress:** Worked on a Face Recognition blog post.
+
+**Thoughts:** It's an awesome strategy to write posts on the topics you're studying. It makes you fix the topic.
+
+**Link to work:** http://neylsoncrepalde.github.io/2017-02-21-reconhecimento-facial/
