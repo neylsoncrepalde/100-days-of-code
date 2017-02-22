@@ -165,3 +165,11 @@
 **Thoughts:** It's an awesome strategy to write posts on the topics you're studying. It makes you fix the topic.
 
 **Link to work:** http://neylsoncrepalde.github.io/2017-02-21-reconhecimento-facial/
+
+### Day 22, February, 22, 2017
+
+**Today's Progress:** Worked on content analysis and sentiment analysis of Facebook and Twitter data.
+
+**Thoughts:** The datasets I'm using are considerably big. I would say this is big data. Lots of work regarding the time spent to run the algorithms and memory management.
+
+**Link to work:** Still a draft paper.
