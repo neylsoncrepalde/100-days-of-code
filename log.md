@@ -173,3 +173,11 @@
 **Thoughts:** The datasets I'm using are considerably big. I would say this is big data. Lots of work regarding the time spent to run the algorithms and memory management.
 
 **Link to work:** Still a draft paper.
+
+### Days 23-24, February, 26-27, 2017
+
+**Two day's Progress:** Worked on Setiment Analysis of Facebook and Twitter data for an article. 
+
+**Thoughts:** Viewing the wordclouds of the most retweeted people was really good. Clarified some things. The sentiment analysis worked very well for the facebook data, not so well for twitter data.
+
+**Link to work:** http://github.com/neylsoncrepalde/PEC55
