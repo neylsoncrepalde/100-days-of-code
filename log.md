@@ -181,3 +181,11 @@
 **Thoughts:** Viewing the wordclouds of the most retweeted people was really good. Clarified some things. The sentiment analysis worked very well for the facebook data, not so well for twitter data.
 
 **Link to work:** http://github.com/neylsoncrepalde/PEC55
+
+### Day 25, March, 1, 2017
+
+**Today's Progress:** Not much. Worked on my PhD dissertation with Latex.
+
+**Thoughts:** Good work, though. I will have to start implementing those strange math in Python soon...
+
+**Link to work:** http://github.com/neylsoncrepalde/tese
