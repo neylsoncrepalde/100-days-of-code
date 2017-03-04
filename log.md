@@ -189,3 +189,11 @@
 **Thoughts:** Good work, though. I will have to start implementing those strange math in Python soon...
 
 **Link to work:** http://github.com/neylsoncrepalde/tese
+
+### Day 26, March, 3, 2017
+
+**Today's Progress:** Did some RNotebook docs. AND... installed Arch Linux! Yeah!
+
+**Thoughts:** Although Arch is hard, it is Faaaaaaaaaaaaaaaast!!!
+
+**Link to work:** Nothing deployed.
