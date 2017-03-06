@@ -197,3 +197,11 @@
 **Thoughts:** Although Arch is hard, it is Faaaaaaaaaaaaaaaast!!!
 
 **Link to work:** Nothing deployed.
+
+### Day 27, March, 5, 2017
+
+**Today's Progress:** Today I worked on some parallel computing and apply functions in R.
+
+**Thoughts:** It was nice. Maybe a more dense post on parallel computing later...
+
+**Link to work:** http://bit.ly/2mJrePj
