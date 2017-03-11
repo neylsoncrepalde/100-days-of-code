@@ -205,3 +205,19 @@
 **Thoughts:** It was nice. Maybe a more dense post on parallel computing later...
 
 **Link to work:** http://bit.ly/2mJrePj
+
+### Days 28, 29, March, 8,9, 2017
+
+**Today's Progress:** I've worked with some encoding problems in R. Me and Marcus, my excellent intern, discovered the amazing *enc2native()* function in R. It solved our problems.
+
+**Thoughts:** Awesome. Two days working on it untill we found a solution.
+
+**Link to work:** Blog Post coming soon!
+
+### Day 30, March, 10, 2017
+
+**Today's Progress:** I've worked on some calculus on Python.
+
+**Thoughts:** I'm taking an Econometrics class and also an Mathematical Economy class. I'm thinking about making some blog posts with the implementation of the calculus/estimations on R and Python.
+
+**Link to work:** Coming soon!
