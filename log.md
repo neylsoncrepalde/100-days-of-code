@@ -221,3 +221,11 @@
 **Thoughts:** I'm taking an Econometrics class and also an Mathematical Economy class. I'm thinking about making some blog posts with the implementation of the calculus/estimations on R and Python.
 
 **Link to work:** Coming soon!
+
+### Day 31, March, 13, 2017
+
+**Today's Progress:** Today, I worked on some descriptive analysis on a huge dataset using R.
+
+**Thoughts:** R is an excellent tool for big datasets. I'm thinking on trying a logistic regression tomorrow.
+
+**Link to work:** Not deployed.
