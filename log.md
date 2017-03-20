@@ -229,3 +229,11 @@
 **Thoughts:** R is an excellent tool for big datasets. I'm thinking on trying a logistic regression tomorrow.
 
 **Link to work:** Not deployed.
+
+### Day 32, March, 20, 2017
+
+**Today's Progress:** Did a blog post on interactive wordclouds and enconding erros.
+
+**Thoughts:** I had some problems linking html to the github markdown but it's fixed.
+
+**Link to work:** http://neylsoncrepalde.github.io/2017-03-20-nuvens-de-palavras-dinamicas/
