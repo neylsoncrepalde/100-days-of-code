@@ -237,3 +237,11 @@
 **Thoughts:** I had some problems linking html to the github markdown but it's fixed.
 
 **Link to work:** http://neylsoncrepalde.github.io/2017-03-20-nuvens-de-palavras-dinamicas/
+
+### Day 33, March, 22, 2017
+
+**Today's Progress:** Did some matrix calculations with R and Python.
+
+**Thoughts:** Awesome practice for econometrics class. I'm trying to do all the exercises outputs with RNotebook and Jupyter-Notebook.
+
+**Link to work:** Not deployed yet. The exercises will become blog posts.
