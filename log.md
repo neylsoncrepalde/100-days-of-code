@@ -245,3 +245,11 @@
 **Thoughts:** Awesome practice for econometrics class. I'm trying to do all the exercises outputs with RNotebook and Jupyter-Notebook.
 
 **Link to work:** Not deployed yet. The exercises will become blog posts.
+
+### Day 34-35, March 23-24, 2017
+
+**Today's Progress:** Did some geolocated data viz with R and leaflet.
+
+**Thoughts:** The processing was made with QGIS. I have the intention to, one day, do it completely inside R (or Python).
+
+**Link to work:** Not deployed.
