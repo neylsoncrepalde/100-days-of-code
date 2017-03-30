@@ -253,3 +253,11 @@
 **Thoughts:** The processing was made with QGIS. I have the intention to, one day, do it completely inside R (or Python).
 
 **Link to work:** Not deployed.
+
+### Day 36-37, March, 29-30, 2017
+
+**Today's Progress:** Doing data analysis and creating reports with RNotebook.
+
+**Thoughts:** The html output was ok but the pdf_document had some problems. After some digging, I found out that there was a missing latex package: texlive-lang.
+
+**Link to work:** Not deployed.
