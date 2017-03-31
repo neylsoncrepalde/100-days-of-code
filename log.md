@@ -261,3 +261,11 @@
 **Thoughts:** The html output was ok but the pdf_document had some problems. After some digging, I found out that there was a missing latex package: texlive-lang.
 
 **Link to work:** Not deployed.
+
+### Day 38, March, 31, 2017
+
+**Today's Progress:** Worked on Getsemani Choir website. Had to fix some bugs and get it updated with upcoming performances!
+
+**Thoughts:** Wagtail is the best! Highly productive!
+
+**Link to work:** http://www.coralgetsemani.com.br/agenda
