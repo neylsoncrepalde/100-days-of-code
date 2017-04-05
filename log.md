@@ -269,3 +269,11 @@
 **Thoughts:** Wagtail is the best! Highly productive!
 
 **Link to work:** http://www.coralgetsemani.com.br/agenda
+
+### Day 39, April, 04, 2017
+
+**Today's Progress:** Tried out some Java!
+
+**Thoughts:** It reminded me of when I started learning ABM on Python.
+
+**Link to work:** Not deployed.
