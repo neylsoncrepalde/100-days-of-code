@@ -277,3 +277,11 @@
 **Thoughts:** It reminded me of when I started learning ABM on Python.
 
 **Link to work:** Not deployed.
+
+### Day 40-41, April, 05-06, 2017
+
+**Today's Progress:** Managing some huge datasets with ff package.
+
+**Thoughts:** Programming is not trivial but the results are encouraging.
+
+**Link to work:** Not deployed (yet).
