@@ -285,3 +285,11 @@
 **Thoughts:** Programming is not trivial but the results are encouraging.
 
 **Link to work:** Not deployed (yet).
+
+### Day 42, April, 10, 2017
+
+**Today's Progress:** Doing some data analysis with R, coffee and the amazing Jamiroquai!
+
+**Thoughts::** Programming and music: Soulmates!
+
+**Link to work:** Not deployed.
