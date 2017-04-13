@@ -293,3 +293,11 @@
 **Thoughts::** Programming and music: Soulmates!
 
 **Link to work:** Not deployed.
+
+### Day 43-44, April, 12-13, 2017.
+
+**Today's Progress:** Doing some network data analysis in R, I found rucinet package to read ucinet data directly into R. Very Handy.
+
+** Thoughts:** After some digging and some practice, I find R the most efficient tool to work with network data.
+
+**Link to work:** Not deployed. Becoming a github rep soon.
