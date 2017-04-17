@@ -301,3 +301,11 @@
 **Thoughts:** After some digging and some practice, I find R the most efficient tool to work with network data.
 
 **Link to work:** Not deployed. Becoming a github rep soon.
+
+### Day 45, April 15, 2017.
+
+**Today's Progress:** Updated Getsemani Choir website. Had to fix image uploading and update some pics.
+
+**Thoughts:** S2
+
+**Link to work:** www.coralgetsemani.com.br
