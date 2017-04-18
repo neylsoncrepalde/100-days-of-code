@@ -309,3 +309,11 @@
 **Thoughts:** S2
 
 **Link to work:** www.coralgetsemani.com.br
+
+### Day 46, April, 18, 2017
+
+**Today's Progress:** Worked on importing some matrices into R and making network graphs. Original data was in xlsx format. Did it with `xlsx` package.
+
+**Thoughts:** `xlsx` package seems to work better than `gdata`. Just an impression.
+
+**Link to work:** https://github.com/neylsoncrepalde/ARS-CRISP
